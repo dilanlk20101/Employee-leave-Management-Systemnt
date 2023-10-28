@@ -1,5 +1,3 @@
-# Employee-leave-Management-Systemnt
-Secure C# app for encrypted passwords, login tracking, attendance, and auto-email PDFs. By Loku Liyanage Nethmini Bhagya Maduphani, Dilan Perera, Pramod Dulanjana.
 Project Name: Employee & Leave Management System
 
 Description:
@@ -20,7 +18,7 @@ Developers:
 
 Dilan Perera
 Pramod Dulanjana
-
+Nethmini Bhagya
 
 Technology Stack:
 
