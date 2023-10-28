@@ -15,10 +15,9 @@ Attendance Recording: Efficiently track and manage employee attendance, facilita
 Automatic Email Notifications: Upon successful registration, employees receive automated email notifications with personalized PDF attachments. The PDF includes relevant details, such as their last 4 digits of the NIC (National Identification Card) number.
 
 Developers:
-
-Dilan Perera
-Pramod Dulanjana
-Nethmini Bhagya
+Nethmini Bhagya, 
+Dilan Perera, 
+Pramod Dulanjana.
 
 Technology Stack:
 
