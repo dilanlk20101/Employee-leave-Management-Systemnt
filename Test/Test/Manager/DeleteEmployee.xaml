@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Test.Manager.DeleteEmployee"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Test.Manager"
+             mc:Ignorable="d" 
+             d:DesignHeight="665" d:DesignWidth="710"
+             Background="White">
+    <Grid x:Name="uc_DeleteEmployee">
+        <Label Content="Delete Form" Foreground="#1f2a4b" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,23,0,595" Width="220"/>
+
+        <Label Content="Employee Id" Foreground="Black" FontSize="18" Margin="103,112,490,517" FontWeight="Bold"/>
+        <TextBox x:Name="txt_emp_id" Width="190" Margin="410,118,150,552" Height="30"/>
+        <Button x:Name="Btn_empDelete" Margin="179,183,439,447" Content="Delete" FontSize="18" FontWeight="Bold" Height="35"  Foreground="AliceBlue" Background="#1f2b4a" BorderThickness="0" Click="Btn_empDelete_Click"/>
+        <DataGrid x:Name="dg_delEmp" Margin="36,272,36,54"/>
+        <Button x:Name="Btn_clear" Margin="394,183,224,447" Content="Clear" FontSize="18" FontWeight="Bold" Height="35" Foreground="AliceBlue" Background="#1f2b4a" BorderThickness="0" Click="Btn_clear_Click"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="Test.Manager.AddEmployee"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:win="clr-namespace:System.Windows;assembly=PresentationFramework"
+             xmlns:dlg="clr-namespace:Microsoft.Win32;assembly=PresentationFramework"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local1="clr-namespace:Test.Manager"
+             mc:Ignorable="d" 
+             d:DesignHeight="665" d:DesignWidth="710"
+             Background="White">
+    <Grid x:Name="uc_addEmployee" RenderTransformOrigin="0.47,0.516">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Content="Employee Register Form" Foreground="#1f2a4b" FontSize="28" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="207,29,0,0"/>
+        <Label Content="First Name" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="black" FontSize="18" Margin="32,94,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_first_name" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="26,133,0,0" Width="125" Height="30" FontWeight="DemiBold"/>
+
+        <Label Content="Last Name" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="190,94,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_last_name" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="190,133,0,0" Width="139" Height="30" FontWeight="DemiBold"/>
+
+        <Label Content="NIC Number" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="32,184,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_nic" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="26,223,0,0" Width="214" Height="30" FontWeight="DemiBold"/>
+
+        <Label Content="DOB" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="26,283,0,0" FontWeight="DemiBold" />
+
+        <Label Content="Gender" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="26,395,0,0" FontWeight="DemiBold" />
+        <RadioButton x:Name="rd_male" Content="Male" Foreground="Black" FontSize="18" FontWeight="DemiBold" Margin="26,434,625,236" Height="30" VerticalContentAlignment="Center"/>
+        <RadioButton x:Name="rd_female" Content="Female" Foreground="Black" FontSize="18" FontWeight="DemiBold" Margin="125,434,526,236" Height="30" VerticalContentAlignment="Center"/>
+
+        <Label Content="Email" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="435,199,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_email" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="435,238,0,0" Width="250" Height="30" FontWeight="DemiBold"/>
+
+        <Label Content="Address" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="28,488,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_tp" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="441,339,0,0" Width="250" Height="30" FontWeight="DemiBold"/>
+
+        <Label Content="Telephone Number" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="441,300,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_address" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="26,527,0,0" Width="250" Height="30" FontWeight="DemiBold"/>
+
+        <Button x:Name="btn_register" Content="Register" Height="35" Width="150" Margin="110,613,450,17" FontSize="18" FontWeight="DemiBold" Foreground="AliceBlue" Background="#1f2b4a" BorderThickness="0" Click="btn_register_Click"/>
+        <Button x:Name="btn_clear" Content="Clear" Height="35" Width="150" Margin="435,613,125,17" FontSize="18" FontWeight="DemiBold" Foreground="AliceBlue" Background="#1f2b4a" BorderThickness="0" Click="btn_clear_Click"/>
+        <DatePicker x:Name="dtp_dob" HorizontalAlignment="Left" Margin="26,317,0,0" VerticalAlignment="Top" Height="29" Width="253" FontSize="16"/>
+
+        <Label Content="Age" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="302,276,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_age" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="302,315,0,0" Width="75" Height="30" FontWeight="DemiBold"/>
+        <Label Content="User Id" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="446,400,0,0" FontWeight="DemiBold" />
+        <TextBox x:Name="txt_user_id" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="446,434,0,0" Width="228" Height="30" FontWeight="DemiBold"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="446,488,0,0" FontWeight="DemiBold" />
+        <PasswordBox x:Name="pwd_password" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="446,527,0,0" Width="228" Height="30" FontWeight="DemiBold"/>
+        <RadioButton x:Name="rd_other" Content="Others" Foreground="Black" FontSize="18" FontWeight="DemiBold" Margin="230,434,421,236" Height="30" VerticalContentAlignment="Center"/>
+        <Label Content="Designation" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" FontSize="18" Margin="441,102,0,0" FontWeight="DemiBold" />
+        <ComboBox x:Name="cmb_designation" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="Black" Background="White" FontSize="18" Margin="435,141,0,0" Width="214" Height="30" FontWeight="DemiBold">
+            <ComboBoxItem Content="Graphic Designer"/>
+            <ComboBoxItem Content="Document Specialist(SD)"/>
+            <ComboBoxItem Content="Senior Document Specialist(SDS)"/>
+            <ComboBoxItem Content="Quality Control Specialist(QCS)"/>
+            <TextBlock TextWrapping="Wrap" Text="TextBlock"/>
+        </ComboBox>
+    </Grid>
+</UserControl>

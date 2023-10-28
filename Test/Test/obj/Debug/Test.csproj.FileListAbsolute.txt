@@ -1,0 +1,618 @@
+D:\GAD_(GUI)\Exercise\Test\Test\bin\Debug\Test.exe.config
+D:\GAD_(GUI)\Exercise\Test\Test\bin\Debug\Test.exe
+D:\GAD_(GUI)\Exercise\Test\Test\bin\Debug\Test.pdb
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\MainWindow.g.cs
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\App.g.cs
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test_MarkupCompile.cache
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\MainWindow.baml
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.g.resources
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.exe
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test.pdb
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Test_MarkupCompile.lref
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Manager\AddEmployee.baml
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Login.g.cs
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Login.baml
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Splash.g.cs
+D:\GAD_(GUI)\Exercise\Test\Test\obj\Debug\Splash.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\bin\Debug\Test.exe.config
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\bin\Debug\Test.exe
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\bin\Debug\Test.pdb
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Splash.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Login.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\MainWindow.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Splash.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\App.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test_MarkupCompile.cache
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test_MarkupCompile.lref
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Login.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\MainWindow.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AddEmployee.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.g.resources
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.exe
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Test.pdb
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\DashBoard.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AddLeave.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AddLeave.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\ProjectReports.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\LeaveReport.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AddProjectxaml.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\AddProjectxaml.baml
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+D:\GAD_(GUI)\Exercise\Test (8)\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\bin\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\bin\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Splash.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddLeave.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddProjectxaml.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\App.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Login.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddLeave.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddProjectxaml.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Lenovo50\Desktop\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\bin\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\bin\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Splash.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\App.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Login.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ProjectStatus.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test 005\Test 005\Test 005\Test (8)\Test\Test\obj\Debug\Manager\ProjectStatus.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Splash.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\App.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Login.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\EmployeeHome.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Employee\Dashboard.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\EmployeeHome.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Employee\Dashboard.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\EmployeeLogin.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\SelectLogin.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\EmployeeLogin.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\SelectLogin.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\bin\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\bin\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Splash.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\EmployeeHome.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\EmployeeLogin.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Employee\Dashboard.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\ProjectStatus.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\SelectLogin.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\App.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\EmployeeHome.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\EmployeeLogin.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Employee\Dashboard.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Login.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\ProjectStatus.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\SelectLogin.baml
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\Test.04\Test\Test\obj\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Splash.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\EmployeeHome.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\EmployeeLogin.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Employee\Dashboard.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\ProjectStatus.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\SelectLogin.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\App.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\bin\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\bin\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\EmployeeHome.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\EmployeeLogin.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Employee\Dashboard.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Login.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\ProjectStatus.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\SelectLogin.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\DeledeSuccess\Test.04\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Splash.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\EmployeeHome.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\EmployeeLogin.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Employee\Dashboard.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Employee\Leave.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\ProjectStatus.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\SelectLogin.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\App.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\bin\Debug\Test.exe
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\bin\Debug\Test.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\EmployeeHome.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\EmployeeLogin.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Employee\Dashboard.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Employee\Leave.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Login.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\ProjectStatus.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\SelectLogin.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Employee\TaskManager.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test.001\Test.04\Test\Test\obj\Debug\Employee\TaskManager.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\bin\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\bin\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Splash.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\EmployeeHome.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\EmployeeLogin.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Employee\Dashboard.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Employee\Leave.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Employee\TaskManager.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\ProjectStatus.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\SelectLogin.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\App.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\EmployeeHome.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\EmployeeLogin.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Employee\Dashboard.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Employee\Leave.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Employee\TaskManager.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Login.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\ProjectStatus.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\SelectLogin.baml
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\Test.0001\Test\Test\obj\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\bin\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\bin\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Splash.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\EmployeeHome.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\EmployeeLogin.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Employee\Dashboard.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Employee\Leave.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Employee\TaskManager.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\ProjectStatus.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\SelectLogin.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\App.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\EmployeeHome.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\EmployeeLogin.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Employee\Dashboard.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Employee\Leave.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Employee\TaskManager.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Login.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\ProjectStatus.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\SelectLogin.baml
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\EncryptSuccess\Test.0001\Test\Test\obj\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\itextsharp.dll
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\itextsharp.xml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Splash.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\EmployeeHome.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\EmployeeLogin.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Employee\Dashboard.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Employee\Leave.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Employee\TaskManager.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\ForgetPassword.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Login.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\AddEmployee.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\AttendanceReport.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\DashBoard.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\DeleteEmployee.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\EmployeeReport.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\LeaveBalance.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\LeaveReport.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\LeaveRequest.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\ManagedProject.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\ProjectReports.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\ProjectStatus.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\SelectLogin.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Splash.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\App.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\EmployeeHome.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\EmployeeLogin.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Employee\Dashboard.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Employee\Leave.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Employee\TaskManager.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\ForgetPassword.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Login.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\AddEmployee.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\AttendanceReport.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\DashBoard.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\DeleteEmployee.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\EmployeeReport.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\LeaveBalance.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\LeaveReport.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\LeaveRequest.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\ManagedProject.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\ProjectReports.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\ProjectStatus.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Manager\UpdateEmployeexaml.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\SelectLogin.baml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.exe
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\obj\Debug\Test.pdb
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\Lenovo50\Desktop\emp name showing\emp name showing\Test\Test\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\MaterialDesignColors.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Employee\Leave.g.cs
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\Employee\Leave.baml
+C:\Users\Pramod Dulanjana\OneDrive - National Institute of Business Management\Desktop\Test\Test\obj\Debug\App.baml
